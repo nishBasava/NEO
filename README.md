@@ -1,4 +1,5 @@
 NEO: Novel Epitope Optimizer
+
 Nishanth Basava
 
 As cancer cases continue to rise, with a 2023 study from Zhejiang and Harvard predicting a 31% increase in cases and a 21% increase in deaths by 2030, the need to find more effective treatments for cancer is greater than ever before. Traditional approaches to treating cancer, such as chemotherapy, often kill healthy cells because of their lack of targetability. On the contrary, personalized cancer vaccines can utilize neoepitopes - distinctive peptides on cancer cells that are often missed by the body’s immune system - that have strong binding affinities to a patient’s MHC to provide a more targeted treatment approach. The selection of the perfect neoepitopes that elicit an immune response is a time-consuming and costly process because of the required inputs of modern predictive methods. This project aims to facilitate faster, cheaper, and more accurate neoepitope binding predictions with the use of Feed Forward Neural Networks and Recurrent Neural Networks. 
